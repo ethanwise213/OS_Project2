@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CS_3501_P2_EthanWise/1.0.0": {
+        "runtime": {
+          "CS_3501_P2_EthanWise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS_3501_P2_EthanWise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

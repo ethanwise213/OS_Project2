@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{amsmath}
+
+\title{CPU Scheduling Simulation Report}
+\author{Ethan Wise}
+\date{April 28, 2025}
+
+\begin{document}
+
+\maketitle
+
+\section*{Introduction}
+This report summarizes the design, implementation, and analysis of a CPU scheduling simulation project. The project implements two scheduling algorithms: Shortest Remaining Time First (SRTF) and Highest Response Ratio Next (HRRN). These algorithms are evaluated based on metrics such as waiting time, turnaround time, CPU utilization, and throughput.
+
+\section*{Design}
+The project is structured into three main components:
+\begin{itemize}
+    \item \textbf{Process Class:} Represents processes with attributes like arrival time, burst time, and computed metrics.
+    \item \textbf{Scheduling Algorithms:} Implements SRTF and HRRN algorithms.
+    \item \textbf{Test Cases:} Validates the algorithms using predefined scenarios.
+\end{itemize}
+
+\section*{Implementation}
+The project is implemented in C\#, adhering to object-oriented principles. Key features include:
+\begin{itemize}
+    \item \textbf{SRTF Algorithm:} Selects the process with the shortest remaining burst time.
+    \item \textbf{HRRN Algorithm:} Selects the process with the highest response ratio, calculated as:
+    \[ \text{Response Ratio} = \frac{\text{Waiting Time} + \text{Burst Time}}{\text{Burst Time}} \]
+    \item \textbf{Metrics:} Computes average waiting time, turnaround time, CPU utilization, and throughput.
+\end{itemize}
+
+\section*{Analysis}
+The algorithms are evaluated using three test cases:
+\begin{itemize}
+    \item \textbf{SRTF:} Minimizes waiting time but may cause starvation for longer processes.
+    \item \textbf{HRRN:} Balances fairness and efficiency by considering response ratios.
+\end{itemize}
+Results demonstrate trade-offs between efficiency and fairness, highlighting the suitability of each algorithm for different scenarios.
+
+\section*{Conclusion}
+This project successfully implements and evaluates two CPU scheduling algorithms. The analysis provides insights into their strengths and weaknesses, offering guidance for their application in real-world systems.
+
+\end{document}

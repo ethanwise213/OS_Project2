@@ -1,0 +1,14 @@
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\bin\Debug\net9.0\CS_3501_P2_EthanWise.exe
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\bin\Debug\net9.0\CS_3501_P2_EthanWise.deps.json
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\bin\Debug\net9.0\CS_3501_P2_EthanWise.runtimeconfig.json
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\bin\Debug\net9.0\CS_3501_P2_EthanWise.dll
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\bin\Debug\net9.0\CS_3501_P2_EthanWise.pdb
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.dll
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\refint\CS_3501_P2_EthanWise.dll
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.pdb
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\CS_3501_P2_EthanWise.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Project 2\CS_3501_P2_EthanWise\obj\Debug\net9.0\ref\CS_3501_P2_EthanWise.dll
